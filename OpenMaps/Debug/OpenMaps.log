@@ -1,0 +1,4 @@
+﻿  application.cpp
+C:\Users\mohom\Documents\CS251\Project 6\OpenMaps\application.cpp(80,21): warning C4244: '=': conversion from 'const double' to '__int64', possible loss of data
+C:\Users\mohom\Documents\CS251\Project 6\OpenMaps\application.cpp(438,42): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+  OpenMaps.vcxproj -> C:\Users\mohom\Documents\CS251\Project 6\OpenMaps\Debug\OpenMaps.exe
